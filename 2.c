@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main()
 {
-	printf(".....");
+	printf("..hello 2.c");
+	int num;
+	scanf("%d",&num);
 
 
 }
